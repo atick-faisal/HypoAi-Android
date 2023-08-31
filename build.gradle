@@ -40,7 +40,7 @@ buildscript {
         serializer_version = "1.6.0"
 
         // ... Dagger-Hilt
-        hilt_version = "2.47"
+        hilt_version = "2.48"
 
         // ... SDK Config
         min_sdk_version = 24
